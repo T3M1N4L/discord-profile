@@ -13,7 +13,7 @@ ___
 ![](https://raw.githubusercontent.com/T3M1N4L/LOGO/main/preview.png)
 
 ___
-![T3M1N4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&theme=radical)
+![T3M1N4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&theme=tokyonight)
 
 ### CREDIT
 CTK MASTERS
