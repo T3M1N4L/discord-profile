@@ -1,3 +1,5 @@
+https://t3m1n4l.github.io/ejdiscordprofile.github.io/
+
 # Discord-Profile-Card-
 customizable profile card like discord, made with bootstrap and jquery
 
