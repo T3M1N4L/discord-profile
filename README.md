@@ -5,7 +5,7 @@ https://t3m1n4l.github.io/ejdiscordprofile.github.io/
 # Discord-Profile-Card- 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![](https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif) 
  
-customizable profile card like discord, made with bootstrap and jquery
+customizable profile card for discord, made with bootstrap and jquery please fork if you want one of your own
 
 ___
 
