@@ -1,5 +1,7 @@
 https://t3m1n4l.github.io/ejdiscordprofile.github.io/
 
+https://github.com/T3M1N4L/T3M1N4L/blob/output/github-contribution-grid-snake.gif
+
 # Discord-Profile-Card-
 customizable profile card like discord, made with bootstrap and jquery
 
